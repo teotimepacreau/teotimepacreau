@@ -4,9 +4,10 @@ Learning Webdev progression :
 - Javascript 🚧
 - Github ✅
 - Node.JS ✅
-- Express 🚧
-- SQLite ⌛
-- Mongoose 🚧
-- MongoDB 🚧
+- Express ✅
+- Fastify 🚧
+- SQL 🚧
+- Mongoose ⌛
+- MongoDB ⌛
 - Vue.JS ⌛
 
