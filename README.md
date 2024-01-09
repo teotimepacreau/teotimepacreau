@@ -7,8 +7,8 @@ Learning Webdev progression :
 - Express ✅
 - Fastify ✅
 - Vite ✅
+- Svelte 🚧
 - SQL 🚧
 - Mongoose ⌛
 - MongoDB ⌛
-- Svelte ⌛
 
